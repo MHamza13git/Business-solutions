@@ -2,7 +2,7 @@
 
 This is a responsive and modern front-end website developed for a UAE-based business solutions provider. Built using HTML5, CSS3, Bootstrap, and JavaScript, the site presents professional services in a clean and engaging layout optimized for all devices.
 
-![Homepage](screenshots/homepage.png)
+![Homepage](./homepage.png)
 
 
 ## 🚀 Features
